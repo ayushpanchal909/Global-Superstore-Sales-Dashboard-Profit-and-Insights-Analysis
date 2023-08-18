@@ -40,6 +40,9 @@ This dashboard equips decision-makers with the insights needed to understand sal
 "Western Europe" emerged with the highest Sum of Sales, towering at $16,32,276.72. This figure was notably 9,012.94% higher than "Central Asia," which registered the lowest Sum of Sales at $17,911.64. "Western Europe" contributed 13.61% to the total Sum of Sales, signifying its considerable impact. Overall, the Sum of Sales across all 23 Regions spanned from $17,911.64 to $16,32,276.72, showcasing the revenue diversity among regions.
 <br>
 <br>
+<img width="135" alt="6" src="https://github.com/ayushpanchal909/Global-Superstore-sales-Dahborard/assets/142341609/58c331fa-d97e-4c31-aed0-fd3a9c052205">
+
+<br>
 "Canon imageCLASS 2200 Advanced Copier" stood out with the highest Sum of Profit, reaching 25,199.93. This figure represented a remarkable 148.62% increase compared to the lowest, "Sauder Classic Bookcase, Traditional," which held a Sum of Profit at 10,135.85. Notably, "Canon imageCLASS 2200 Advanced Copier" contributed 31.73% to the total Sum of Profit, showcasing its significant profit-generation capability.
 <br>
 <br>

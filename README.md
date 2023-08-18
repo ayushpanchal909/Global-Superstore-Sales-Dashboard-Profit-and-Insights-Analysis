@@ -1,4 +1,4 @@
-## Global-Superstore-sales-Dahborard
+## Global Superstore Sales Dashboard: Profit and Insights Analysis
 
 In the Global Superstore Sales BI project, I began by importing and ensuring the cleanliness of the dataset. The integration of essential DAX measures and calculated columns enhanced the analytical capabilities. Through establishing relationships among the "orders," "people," and "return" tables, a robust foundation for analysis was laid.
 
